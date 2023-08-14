@@ -1,5 +1,4 @@
-# di-component-challenge
-## devsuperior
+## curso devsuperior
 
 Desafio: Componentes e injeção de dependência
 
